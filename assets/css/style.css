@@ -616,7 +616,7 @@ section {
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
-  display: inline-block;
+  display: flex;
   padding: 12px 32px;
   border-radius: 4px;
   transition: 0.3s;
@@ -624,7 +624,7 @@ section {
   color: #47b2e4;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  margin-top: 6px;
+  margin: auto;
   border: 2px solid #47b2e4;
 }
 
