@@ -1,1 +1,1 @@
-A company portfolio site developed for utopix technologies.
+- A company portfolio site.
